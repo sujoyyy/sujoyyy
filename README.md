@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey there, i'm Sujoy Dey 👋⚡
+# hey there, i'm Sujoy⚡
 
 **Full-Stack Developer × UI/UX Designer**  
 *Building production-grade web applications, AI workflows, and clean digital experiences.*
