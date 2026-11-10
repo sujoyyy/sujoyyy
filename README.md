@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sujoyyy/sujoyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey there, i'm Sujoy Dey 👋⚡
 
-Here are some ideas to get you started:
+**Full-Stack Developer × UI/UX Designer**  
+*Building production-grade web applications, AI workflows, and clean digital experiences.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujoy-dey-2525393a7/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdey46231@gmail.com)
+
+</div>
+
+---
+
+### 👨‍💻 who are you?
+
+```typescript
+const profile = {
+  name: "Sujoy Dey",
+  focus: ["Full-Stack Web Dev", "AI Integrations", "UI/UX Design"],
+  background: "Computer Science & Engineering",
+  interests: ["Clean Architectures", "Modern Design Systems", "Formula 1"]
+};
